@@ -1,1 +1,1 @@
-# GoogleWebVR
+# Basic oogleWebVR
